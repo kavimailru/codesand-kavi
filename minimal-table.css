@@ -1,6 +1,7 @@
 html {
   font-family: sans-serif;
 }
+
 table {
   border-collapse: collapse;
   border: 2px solid rgb(200, 200, 200);
@@ -10,7 +11,7 @@ table {
 
 td,
 th {
-  border: 1px solid rgba(190, 190, 190, 0);
+  border: 1px solid rgb(190, 190, 190);
   padding: 10px 20px;
 }
 
@@ -32,9 +33,4 @@ tr:nth-child(odd) td {
 
 caption {
   padding: 10px;
-}
-h1 {
-  color: red;
-  width: 500px;
-  border: 3px solid blue;
 }
